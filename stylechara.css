@@ -35,3 +35,9 @@
 .btn {
     font-family: "PixleText";
 }
+
+.btn a
+{
+    text-decoration: none;
+    color: black;
+}
